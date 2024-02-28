@@ -22,7 +22,7 @@
     "@agoric/internal": "^0.2.0",
     "better-sqlite3": "^7.5.0",
     "lmdb": "^2.4.5",
-    "tmp": "^0.2.1"
+    "tmp": "^0.2.2"
   },
   "devDependencies": {
     "@endo/init": "^0.5.49",
