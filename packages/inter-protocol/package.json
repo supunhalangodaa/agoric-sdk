@@ -40,13 +40,13 @@
     "@agoric/vat-data": "^0.4.0",
     "@agoric/vats": "^0.11.0",
     "@agoric/zoe": "^0.25.0",
-    "@endo/bundle-source": "^2.3.1",
+    "@endo/bundle-source": "^3.0.0",
     "@endo/captp": "^2.0.15",
     "@endo/eventual-send": "^0.16.5",
     "@endo/far": "^0.2.11",
     "@endo/marshal": "^0.7.5",
     "@endo/nat": "^4.1.20",
-    "@endo/promise-kit": "^0.2.49"
+    "@endo/promise-kit": "^1.0.0"
   },
   "devDependencies": {
     "@agoric/deploy-script-support": "^0.9.1",
